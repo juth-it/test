@@ -1,0 +1,5 @@
+.idea/
+bundle/
+node_modules/
+typings/
+frontend/css/
